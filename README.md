@@ -1,8 +1,9 @@
 # ImageProcessing-Project
 
-Important: Since the PyQt 5 and OpenCV have the same name for Qtcore. So, please install the OpenCV by this command in terminal: pip install opencv-contrib-python-headless
+Important: PyQt 5 and OpenCV have the same name for Qtcore. To avoid the IDE error, Please install OpenCV by this command in terminal: pip install opencv-contrib-python-headless
 
-Since the GitHub allows file up to 100 MB only, all the lib need to be installed to run the program.
+GitHub allows file up to 100 MB only, all the lib need to be installed to run the program.
+
 lib needed: PyQt5, numpy, cv2(please intall cv2 by command: pip install opencv-contrib-python-headless)
 
 If you want, all implementation of algorithms in the common.py file can be use directely without interface.
