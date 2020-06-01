@@ -8,9 +8,7 @@ lib needed: PyQt5, numpy, cv2(please intall cv2 by command: pip install opencv-c
 If you want, all implementation of algorithms in the common.py file can be use directely without interface.
 
 common.py: all the implementation of algorithms discussed above were implement in this file. 
-
 main.py: this file is the code for the program which mainly for the user interface.
-
 UI.py: all the elements of the interface are in this file.
 
 
